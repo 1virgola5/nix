@@ -7,21 +7,21 @@
   # Utility
   "alt-tab"
   "keka"
-  "jordanbaird-ice"
   "keycastr"
   "raycast"
   "ghostty"
   "lihaoyun6/tap/quickrecorder"
+  "iina"
+  "shutter-encoder"
 
   # Dev
   "sloth"
   "vscodium"
   "visual-studio-code"
   "utm"
-  "balenaetcher"
-  "outerbase-studio"
-  "hoppscotch"
+  "bruno"
   "zed"
+
 
   # Base
   "obsidian"
@@ -30,10 +30,8 @@
   "ungoogled-chromium"
   "bitwarden"
   "spotify"
-  "slack"
   "yubico-authenticator"
   "mediahuman-audio-converter"
   "imageoptim"
   "appcleaner"
-  "drawio"
 ]

@@ -7,16 +7,14 @@
   extras = {
     casks = [
       "surfshark"
-      "visual-studio-code"
       "signal"
       "discord"
       "daisydisk"
       "bambu-studio"
       "cyberduck"
+      "balenaetcher"
       "datagrip"
-      "bruno"
       "transmission"
-      "iina"
       "steam"
     ];
     pkgs =
