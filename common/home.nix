@@ -21,6 +21,8 @@
     tree
     wget
     rsync
+    moreutils
+    jq
     yq-go
     kubectl
     croc
