@@ -10,7 +10,6 @@ with pkgs;
   devenv
   nixpacks
   posting
-  terraform
   opencode
 
   # Editor

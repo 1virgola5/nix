@@ -16,6 +16,7 @@
       "datagrip"
       "transmission"
       "steam"
+      "android-studio"
     ];
     pkgs =
       pkgs: with pkgs; [
