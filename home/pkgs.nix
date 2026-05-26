@@ -12,14 +12,20 @@ with pkgs;
   posting
   opencode
 
-  # Editor
+  # NVim
   nvs
   lua
   luajitPackages.luarocks
   ast-grep
 
+  # LSP Binaries
+  lua-language-server # Lua
+  gopls # Go
+  vtsls # JS/TS
+  nil # Nix
+  nixd # Nix
+
   # Language specific
-  nixfmt-rfc-style
   nil
   nixd
   fnm

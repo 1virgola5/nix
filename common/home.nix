@@ -26,7 +26,7 @@
     yq-go
     kubectl
     croc
-    asciinema_3
+    asciinema
     grex
     mise
 
