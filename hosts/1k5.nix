@@ -11,16 +11,18 @@
       "miro"
       "loom"
       "cursor"
+      "bruno"
+      "cyberduck"
+      "slack"
     ];
     pkgs =
       pkgs: with pkgs; [
         docker-client
         colima
         google-cloud-sdk
-        gemini-cli
-        terramate
-        ffmpeg-full
         stripe-cli
+        rbw
+        pinentry-tty
       ];
   };
 }
