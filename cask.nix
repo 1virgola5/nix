@@ -10,7 +10,6 @@
   "keycastr"
   "raycast"
   "ghostty"
-  "lihaoyun6/tap/quickrecorder"
   "iina"
   "shutter-encoder"
 

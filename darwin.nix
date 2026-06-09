@@ -93,7 +93,7 @@
   homebrew = {
     enable = true;
     casks = (import ./cask.nix) ++ (lib.attrByPath [ "extras" "casks" ] [ ] host);
-    taps = [ "lihaoyun6/tap" ];
+    taps = [];
     global = {
       autoUpdate = true;
     };
@@ -101,6 +101,7 @@
       autoUpdate = true;
       upgrade = true;
       cleanup = "zap";
+      extraFlags = ["--force" ];
     };
   };
 }
