@@ -7,7 +7,7 @@
   extras = {
     casks = [
       "notion"
-      "linear-linear"
+      "linear"
       "miro"
       "loom"
       "cursor"
