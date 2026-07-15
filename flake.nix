@@ -32,9 +32,6 @@
               flake = self;
             };
             modules = [
-              {
-                nixpkgs.overlays = [ (import ./overlay.nix) ];
-              }
               (import ./darwin.nix)
               home-manager.darwinModules.home-manager
               {
