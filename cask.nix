@@ -15,8 +15,6 @@
 
   # Dev
   "sloth"
-  "vscodium"
-  "visual-studio-code"
   "utm"
   "bruno"
   "zed"
