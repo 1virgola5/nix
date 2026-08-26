@@ -98,9 +98,6 @@
         if type -q starship
           starship init fish | source
         end
-        if type -q fnm
-          fnm env --use-on-cd | source
-        end
         if type -q nvs
           nvs env --source | source
         end

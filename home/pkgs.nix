@@ -28,7 +28,6 @@ with pkgs;
   # Language specific
   nil
   nixd
-  fnm
   bun
   zig
   uv
